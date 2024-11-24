@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Author
-Built with ❤️ by [Your Name/Organization](#). Connect on [LinkedIn](#).
+Built with ❤️ by Mohammed Muatasim. Connect on [[LinkedIn](#)](https://www.linkedin.com/in/mohammed-muatasim-4785b7313/)
