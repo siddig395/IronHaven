@@ -17,7 +17,7 @@ Welcome to the **Iron Haven** gym website repository! This project showcases a m
 ## Demo
 Check out the live site: [Iron Haven Gym](#) *(Add live link once deployed)*
 
-![Iron Haven Preview](#) ![Capture](https://github.com/user-attachments/assets/634f73bf-1350-4292-96d9-17ff840de5c7)
+![Capture](https://github.com/user-attachments/assets/634f73bf-1350-4292-96d9-17ff840de5c7)
 
 ---
 
