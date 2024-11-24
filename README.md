@@ -2,8 +2,6 @@
 
 Welcome to the **Iron Haven** gym website repository! This project showcases a modern, user-friendly, and visually engaging website designed for gym enthusiasts. The site features details about services, pricing plans, testimonials, and more to promote Iron Haven as the go-to gym for fitness enthusiasts.
 
-![Capture](https://github.com/user-attachments/assets/634f73bf-1350-4292-96d9-17ff840de5c7)
-
 
 ## Table of Contents
 - [Demo](#demo)
@@ -19,7 +17,7 @@ Welcome to the **Iron Haven** gym website repository! This project showcases a m
 ## Demo
 Check out the live site: [Iron Haven Gym](#) *(Add live link once deployed)*
 
-![Iron Haven Preview](#) *(Add preview image here if available)*
+![Iron Haven Preview](#) ![Capture](https://github.com/user-attachments/assets/634f73bf-1350-4292-96d9-17ff840de5c7)
 
 ---
 
